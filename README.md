@@ -8,9 +8,15 @@
 
 ---
 
+## 👥 Integrantes
+Integrante 1: Duvan Alexis Hoyos.
+Integrante 2: Juan José Hurtado.
+
+---
+
 ## 📌 Descripción del Proyecto
 
-Este proyecto implementa la aplicación de escritorio monolítica en Java Swing para la gestión de usuarios del sistema de evaluación Saber Pro, cumpliendo con los requerimientos expresados en la guía de laboratorio **lisw2-Guia-taller02** y en el documento del proyecto **ProyectoCurso-2026.2-vf**.
+Este proyecto implementa la aplicación de escritorio monolítica en Java Swing para la gestión de usuarios del sistema de evaluación Saber Pro, cumpliendo con los requerimientos expresados en la guía de laboratorio.
 
 Permite el registro de usuarios con roles específicos, validación rigurosa de complejidad de contraseñas, almacenamiento cifrado seguro con **Argon2id**, persistencia en **SQLite** y un tablero o menú contextual con opciones diferenciadas por el rol del usuario autenticado.
 
@@ -71,17 +77,23 @@ Durante el registro de un usuario, se solicitan los siguientes datos:
 
 ## 🚀 Compilación y Ejecución
 
-### 1. Compilar el proyecto
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/DuvanDT/LISWII_T2_G06
+cd lisw2-Guia-taller02
+```
+
+### 2. Compilar el proyecto
 ```bash
 mvn compile
 ```
 
-### 2. Ejecutar las Pruebas Unitarias Automatizadas (JUnit 5)
+### 3. Ejecutar las Pruebas Unitarias Automatizadas (JUnit 5)
 ```bash
 mvn test
 ```
 
-### 3. Ejecutar la Aplicación
+### 4. Ejecutar la Aplicación
 ```bash
 mvn exec:java
 ```
