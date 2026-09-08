@@ -79,8 +79,8 @@ Durante el registro de un usuario, se solicitan los siguientes datos:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/DuvanDT/LISWII_T2_G06
-cd lisw2-Guia-taller02
+git clone https://github.com/DuvanDT/LISWII_T04_G06
+cd LISWII_T4_G06
 ```
 
 ### 2. Compilar el proyecto
