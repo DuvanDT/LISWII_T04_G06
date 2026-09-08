@@ -3,7 +3,7 @@
 **Universidad del Cauca**  
 **Facultad de Ingeniería Electrónica y Telecomunicaciones**  
 **Programa de Ingeniería de Sistemas**  
-**Laboratorio de Ingeniería de Software II - Taller 2: Principios SOLID**  
+**Laboratorio de Ingeniería de Software II - Taller 4: Patrón Capas y Micro patrón MVC**  
 **Periodo 2-2026**
 
 ---
